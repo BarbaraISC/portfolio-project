@@ -34,7 +34,7 @@ p {
 .hero {
   background-color: #f9f7fe;
   text-align: center;
-  padding: 160px 20px;
+  padding: 80px 20px;
 }
 
 .hero p {
@@ -73,7 +73,7 @@ p {
 }
 
 .content-container {
-  padding: 160px 20px;
+  padding: 60px 20px;
 }
 
 .content {
@@ -119,10 +119,7 @@ p {
     text-align: center;
     padding: 0;
   }
-  .hero {
-    padding: 80px 20px;
-  }
-
+  
 nav a {
   font-size: 12px;
 }
@@ -177,7 +174,7 @@ footer {
   margin: 60px 0;
 }
 
-h4 {
+h3 {
   font-size: 48px;
 }
 
